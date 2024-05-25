@@ -19,11 +19,8 @@ function findDuplicates(array) {
 }
 
 
-
-
-
-// const arr = [6, 9, 15, 6, 13, 9, 11, 15];
-// console.log("Duplicate values:[6, 9, 15, 6, 13, 9, 11, 15];", findDuplicates(arr));
+const arr = [6, 9, 15, 6, 13, 9, 11, 15];
+console.log("Duplicate values:[6, 9, 15, 6, 13, 9, 11, 15];", findDuplicates(arr));
 
 
 
@@ -50,3 +47,5 @@ function findDuplicates(array) {
 // console.log("Reversed array:", reverseArray(arr));
 
   
+
+
